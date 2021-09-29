@@ -17,7 +17,7 @@ Lackey==0.7.3
 lxml==4.3.4
 mouse==0.7.0
 multi-key-dict==2.0.3
-nltk==3.4.3
+nltk==3.6.3
 numpy==1.16.4
 opencv-python==4.1.0.25
 pandas==0.24.2
