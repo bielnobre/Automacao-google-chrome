@@ -3,7 +3,7 @@ assertpy==0.14
 beautifulsoup4==4.7.1
 behave==1.2.6
 behave2cucumber==1.0.3
-certifi==2019.6.16
+certifi==2022.12.7
 chardet==3.0.4
 colorama==0.4.1
 configparser==3.7.4
